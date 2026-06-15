@@ -72,9 +72,9 @@ I specialize in building robust **C#/.NET** backends and I'm currently expanding
 <div align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zephir-x&theme=radical&hide_border=true" alt="Kacper's GitHub Streak" />
   <br>
-  <img height="165" src="https://my-github-stats-three-psi.vercel.app/api?username=zephir-x&show_icons=true&theme=radical&hide_border=true" alt="Kacper's GitHub Stats" />
+  <img height="165" src="https://my-github-stats-three-psi.vercel.app/api?username=zephir-x&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Kacper's GitHub Stats" />
   <br>
-  <img height="165" src="https://my-github-stats-three-psi.vercel.app/api/top-langs/?username=zephir-x&layout=compact&theme=radical&hide_border=true" alt="Kacper's Top Languages" />
+  <img height="165" src="https://my-github-stats-three-psi.vercel.app/api/top-langs/?username=zephir-x&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Kacper's Top Languages" />
 </div>
 
 ---
