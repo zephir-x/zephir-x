@@ -2,7 +2,16 @@
 
 ### 🚀 .NET Fullstack Developer | Computer Science Student @ CUT
 
-I specialize in building robust **C#/.NET** backends and I'm currently expanding my E2E stack by actively exploring modern frontend technologies like **React** and **Next.js**. From designing relational databases to configuring Docker containers, I enjoy owning the entire development lifecycle. My approach to code is pragmatic: keep it clean, keep it decoupled, and always write tests.
+I specialize in building robust **C#/.NET** backends and I'm currently expanding my E2E stack by actively exploring modern frontend technologies like **React** and **Vite**. From designing relational databases and enforcing **Clean Architecture**, to configuring Docker containers, I enjoy owning the entire development lifecycle. My approach to code is pragmatic: keep it clean, keep it decoupled, and always write tests.
+
+---
+
+### 🏆 Featured Projects
+
+- 🏋️‍♂️ **[GymCore - E2E Fitness SaaS Platform](https://github.com/zephir-x/gymcore)**:  
+A highly-concurrent SaaS platform for fitness clubs. Built with **.NET 9**, **React + TypeScript**, and **PostgreSQL**. Features strict Clean Architecture, CQRS, Stripe API integrations, and optimistic concurrency control.
+- 🎮 **[GameNest - Digital Game Distribution Platform](https://github.com/zephir-x/game-store)**:  
+Digital Game Distribution Platform built from scratch with custom MVC architecture (**Pure PHP**, **Vanilla JavaScript**, **HTML5** / **CSS3**).
 
 ---
 
@@ -23,15 +32,16 @@ I specialize in building robust **C#/.NET** backends and I'm currently expanding
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-512BD4?style=for-the-badge)
+![CQRS (MediatR)](https://img.shields.io/badge/CQRS_(MediatR)-512BD4?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### 🌐 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -63,7 +73,7 @@ I specialize in building robust **C#/.NET** backends and I'm currently expanding
 ![OOP](https://img.shields.io/badge/OOP-2b2b2b?style=for-the-badge)
 ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-2b2b2b?style=for-the-badge)
 ![Decoupled Architecture](https://img.shields.io/badge/Decoupled_Architecture-2b2b2b?style=for-the-badge)
-![React Server Components](https://img.shields.io/badge/RSC-2b2b2b?style=for-the-badge)
+![Optimistic Concurrency](https://img.shields.io/badge/Optimistic_Concurrency-2b2b2b?style=for-the-badge)
 
 ---
 
