@@ -1,17 +1,23 @@
+<div align="center">
+
 # Hi there, I'm Kacper! 👋
 
-### 🚀 .NET Fullstack Developer | Computer Science Student @ CUT
+### 🚀 Software Engineer | .NET & React | Cloud-Native & Azure
 
-I specialize in building robust **C#/.NET** backends and I'm currently expanding my E2E stack by actively exploring modern frontend technologies like **React** and **Vite**. From designing relational databases and enforcing **Clean Architecture**, to configuring Docker containers, I enjoy owning the entire development lifecycle. My approach to code is pragmatic: keep it clean, keep it decoupled, and always write tests.
+I specialize in building robust **C#/.NET** backends, dynamic **React** frontends, and deploying them using modern **Cloud-Native** architectures. From designing relational databases and enforcing **Clean Architecture**, to writing **Terraform** infrastructure as code and configuring automated **CI/CD pipelines**, I enjoy owning the entire development lifecycle. My approach to software engineering is pragmatic: keep the architecture decoupled, automate deployments, and always write tests.
+
+</div>
 
 ---
 
 ### 🏆 Featured Projects
 
+- ☁️ **[Azure Infrastructure Hub - Cloud Management Platform](https://github.com/zephir-x/azure-infrastructure-hub)**:  
+A centralized cloud management architecture provisioned via **Terraform** on **Microsoft Azure**. Features isolated VNETs, Zero Trust security with Managed Identities, Azure Container Apps (including Sidecar patterns), and automated CI/CD deployments via self-hosted **GitHub Actions** runners.
 - 🏋️‍♂️ **[GymCore - E2E Fitness SaaS Platform](https://github.com/zephir-x/gymcore)**:  
-A highly-concurrent SaaS platform for fitness clubs. Built with **.NET 9**, **React + TypeScript**, and **PostgreSQL**. Features strict Clean Architecture, CQRS, Stripe API integrations, and optimistic concurrency control.
+A highly-concurrent SaaS platform for fitness clubs. Built with **.NET 9**, **React & TypeScript**, and **PostgreSQL**. Features strict Clean Architecture, CQRS, Stripe API integrations, and optimistic concurrency control.
 - 🎮 **[GameNest - Digital Game Distribution Platform](https://github.com/zephir-x/game-store)**:  
-Digital Game Distribution Platform built from scratch with custom MVC architecture (**Pure PHP**, **Vanilla JavaScript**, **HTML5** / **CSS3**).
+Digital Game Distribution Platform built from scratch with custom MVC architecture (**Pure PHP**, **Vanilla JavaScript**, **HTML5** / **CSS3**). Fully containerized and adapted for cloud environments.
 
 ---
 
@@ -20,11 +26,13 @@ Digital Game Distribution Platform built from scratch with custom MVC architectu
 - 🎓 **Education:** Currently pursuing a B.Sc. in Computer Science at Cracow University of Technology (2023 - 2027).
 - 🤝 **The Soft Edge:** Thanks to my background in professional customer service, I don't just write code - I solve real problems. I'm used to high-pressure environments and translating complex technical jargon into plain, actionable language.
 - 🤖 **AI Workflows:** Certified by Google. I actively leverage Prompt Engineering and AI tools to write better code and streamline my daily development processes.
-- 💬 **Ask me about:** The `.NET ecosystem`, `C# architecture`, `SQL database design`, `Entity Framework Core`, or containerizing applications with `Docker`!
+- 💬 **Ask me about:** The `.NET ecosystem`, `Cloud-Native architecture`, `Terraform & Azure`, `SQL database design`, or `CI/CD pipelines`!
 - 📫 **Reach me:** [kacper.gumulak@gmail.com](mailto:kacper.gumulak@gmail.com) | [LinkedIn](https://linkedin.com/in/kacper-gumulak-dev)
-- ⚡ **Fun fact:** I love solving problems - both in code and while interacting with people. When I'm away from the keyboard, you can find me hitting the gym, exploring new tech trends or practicing my Spanish!
+- ⚡ **Fun fact:** I love solving problems - both in code and while interacting with people. When I'm away from the keyboard, you can find me running, hitting the gym, exploring new tech trends, or practicing my Spanish!
 
 ---
+
+<div align="center">
 
 ### 🛠️ My Complete Tech Stack
 
@@ -53,7 +61,10 @@ Digital Game Distribution Platform built from scratch with custom MVC architectu
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-#### ⚙️ DevOps & Tools
+#### ☁️ Cloud, DevOps & Tools
+![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux (WSL)](https://img.shields.io/badge/Linux_WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -73,24 +84,23 @@ Digital Game Distribution Platform built from scratch with custom MVC architectu
 ![OOP](https://img.shields.io/badge/OOP-2b2b2b?style=for-the-badge)
 ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-2b2b2b?style=for-the-badge)
 ![Decoupled Architecture](https://img.shields.io/badge/Decoupled_Architecture-2b2b2b?style=for-the-badge)
+![Zero Trust Security](https://img.shields.io/badge/Zero_Trust_Security-2b2b2b?style=for-the-badge)
 ![Optimistic Concurrency](https://img.shields.io/badge/Optimistic_Concurrency-2b2b2b?style=for-the-badge)
 
 ---
 
 ### 📊 Comprehensive GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zephir-x&theme=radical&hide_border=true" alt="Kacper's GitHub Streak" />
-  <br>
-  <img height="165" src="https://my-github-stats-three-psi.vercel.app/api?username=zephir-x&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Kacper's GitHub Stats" />
-  <br>
-  <img height="165" src="https://my-github-stats-three-psi.vercel.app/api/top-langs/?username=zephir-x&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Kacper's Top Languages" />
-</div>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zephir-x&theme=radical&hide_border=true" alt="Kacper's GitHub Streak" />
+<br>
+<img height="165" src="https://my-github-stats-three-psi.vercel.app/api?username=zephir-x&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Kacper's GitHub Stats" />
+<br>
+<img height="165" src="https://my-github-stats-three-psi.vercel.app/api/top-langs/?username=zephir-x&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Kacper's Top Languages" />
 
 ---
 
-<div align="center">
-  <br>
-  <i>"Let's build something exceptional together."</i><br>
-  <a href="https://kacpergumulak.pl"><b>🌐 Check out my full portfolio site</b></a>
+<br>
+<i>"Let's build something exceptional together."</i><br>
+<a href="https://kacpergumulak.pl"><b>🌐 Check out my full portfolio site</b></a>
+
 </div>
