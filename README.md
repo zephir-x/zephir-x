@@ -14,10 +14,12 @@ I specialize in building robust **C#/.NET** backends, dynamic **React** frontend
 
 - ☁️ **[Azure Infrastructure Hub - Cloud Management Platform](https://github.com/zephir-x/azure-infrastructure-hub)**:  
 A centralized cloud management architecture provisioned via **Terraform** on **Microsoft Azure**. Features isolated VNETs, Zero Trust security with Managed Identities, Azure Container Apps (including Sidecar patterns), and automated CI/CD deployments via self-hosted **GitHub Actions** runners.
+- 📋 **[ProjectHub - Team Task Management System](https://github.com/zephir-x/pk-ztpai/tree/main/project)**:  
+An enterprise-grade Agile management platform built with **.NET 9**, **React 19**, and **PostgreSQL**. Features a real-time reactive Kanban board via **SignalR (WebSockets)**, strict Role-Based Access Control, a MediatR event bus, and automated CI/CD pipelines deploying to a Linux VPS in a Multi-Tenant architecture.
 - 🏋️‍♂️ **[GymCore - E2E Fitness SaaS Platform](https://github.com/zephir-x/gymcore)**:  
 A highly-concurrent SaaS platform for fitness clubs. Built with **.NET 9**, **React & TypeScript**, and **PostgreSQL**. Features strict Clean Architecture, CQRS, Stripe API integrations, and optimistic concurrency control.
-- 🎮 **[GameNest - Digital Game Distribution Platform](https://github.com/zephir-x/game-store)**:  
-Digital Game Distribution Platform built from scratch with custom MVC architecture (**Pure PHP**, **Vanilla JavaScript**, **HTML5** / **CSS3**). Fully containerized and adapted for cloud environments.
+- 🎱 **[2D Billiards - Physics Engine & Game](https://github.com/zephir-x/billards-game)**:  
+A highly optimized, custom-built 2D physics billiards engine written entirely from scratch in **C# 13**. Engineered with strict **Domain-Driven Design (DDD)** principles and rendered blazingly fast using **Raylib**. Features 100% domain test coverage, strict state machines, and decoupled Clean Architecture.
 
 ---
 
@@ -41,8 +43,8 @@ Digital Game Distribution Platform built from scratch with custom MVC architectu
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-512BD4?style=for-the-badge)
 ![CQRS (MediatR)](https://img.shields.io/badge/CQRS_(MediatR)-512BD4?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-316192?style=for-the-badge&logo=dotnet&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### 🌐 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -71,20 +73,18 @@ Digital Game Distribution Platform built from scratch with custom MVC architectu
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 #### 🤖 AI & Automation
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-00A67E?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
-![AI Automation](https://img.shields.io/badge/AI_Automation-2b2b2b?style=for-the-badge)
 
 #### 💡 Core Concepts
 ![OOP](https://img.shields.io/badge/OOP-2b2b2b?style=for-the-badge)
 ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-2b2b2b?style=for-the-badge)
+![Domain-Driven Design](https://img.shields.io/badge/Domain--Driven_Design-2b2b2b?style=for-the-badge)
 ![Decoupled Architecture](https://img.shields.io/badge/Decoupled_Architecture-2b2b2b?style=for-the-badge)
 ![Zero Trust Security](https://img.shields.io/badge/Zero_Trust_Security-2b2b2b?style=for-the-badge)
-![Optimistic Concurrency](https://img.shields.io/badge/Optimistic_Concurrency-2b2b2b?style=for-the-badge)
 
 ---
 
