@@ -12,15 +12,15 @@ I specialize in building robust **C#/.NET** backends, dynamic **React** frontend
 
 ### 🏆 Featured Projects
 
-- 🏙️ **[Kraków360 - Smart City Decision-Support & Urban Analytics Platform](https://github.com/zephir-x/cracow360)** ([Live: kraków360.pl](https://kraków360.pl)):  
+- 🏙️ **[Kraków360 - Smart City Decision-Support & Urban Analytics Platform](https://github.com/zephir-x/cracow360)** ([kraków360.pl](https://kraków360.pl)):  
 An end-to-end Smart City platform and 15-Minute City simulator integrating **52 municipal open datasets** across 18 districts. Engineered with a **.NET 9 Minimal API** (Clean Architecture, DDD), **React 19 & Leaflet** vector cartography, a 6-stage **Python GIS/econometric ETL** pipeline, and a RAG-grounded AI assistant (**DeepSeek V3**).
 - 🖥️ **[Multi-Project VPS Edge Infrastructure - Self-Hosted PaaS](https://github.com/zephir-x/vps-edge-infrastructure)**:  
 A production Linux VPS architecture orchestrating **13 concurrent containers** (4 fullstack web platforms, 3 PostgreSQL engines, SQLite, and a custom L4 TCP game relay) within a strict 9.8 GB storage ceiling. Powered by **Cloudflare IPv6 Edge**, **Nginx L7 Reverse Proxy**, **UFW** hardening, and **Zero-Build GHCR** workflows.
 - ☁️ **[Azure Infrastructure Hub - Cloud Management Platform](https://github.com/zephir-x/azure-infrastructure-hub)**:  
 A centralized cloud management architecture provisioned via **Terraform** on **Microsoft Azure**. Features isolated VNETs, Zero Trust security with Managed Identities, Azure Container Apps (including Sidecar patterns), and automated CI/CD deployments via self-hosted **GitHub Actions** runners.
-- 📋 **[ProjectHub - Team Task Management System](https://github.com/zephir-x/pk-ztpai/tree/main/project)** ([Live: myprojecthub.com.pl](https://myprojecthub.com.pl)):  
+- 📋 **[ProjectHub - Team Task Management System](https://github.com/zephir-x/pk-ztpai/tree/main/project)** ([myprojecthub.com.pl](https://myprojecthub.com.pl)):  
 An enterprise-grade Agile management platform built with **.NET 9**, **React 19**, and **PostgreSQL 17**. Features a real-time reactive Kanban board via **SignalR (WebSockets)**, strict Role-Based Access Control, a MediatR event bus, and automated CI/CD pipelines.
-- 🏋️‍♂️ **[GymCore - E2E Fitness SaaS Platform](https://github.com/zephir-x/gymcore)** ([Live: gymcore.com.pl](https://gymcore.com.pl)):  
+- 🏋️‍♂️ **[GymCore - E2E Fitness SaaS Platform](https://github.com/zephir-x/gymcore)** ([gymcore.com.pl](https://gymcore.com.pl)):  
 A highly-concurrent SaaS platform for fitness clubs. Built with **.NET 9**, **React & TypeScript**, and **PostgreSQL**. Features strict Clean Architecture, CQRS, Stripe API webhook integrations, and optimistic concurrency control.
 - 🎱 **[2D Billiards - Deterministic Physics Engine & 1v1 Multiplayer](https://github.com/zephir-x/billards-game)**:  
 A custom-built 2D physics billiards engine (480Hz collision resolver) and 1v1 online multiplayer game written from scratch in **C# 13 & .NET 9**. Backed by a dedicated containerized **L4 TCP Relay daemon**, strict **Domain-Driven Design (DDD)**, **Raylib-cs** OpenGL rendering, and 100% domain test coverage.
@@ -31,7 +31,7 @@ A custom-built 2D physics billiards engine (480Hz collision resolver) and 1v1 on
 
 - 🎓 **Education:** Currently pursuing a B.Eng. in Computer Science at Cracow University of Technology (2023 - 2027).
 - 🤝 **The Soft Edge:** Combining commercial developer internship experience with a strong background in customer service, I don't just write code - I solve real problems. I'm used to high-pressure environments and translating complex technical jargon into plain, actionable language.
-- 🤖 **AI Workflows & Engineering:** Certified by Google. Beyond using AI to accelerate daily workflows, I actively engineer autonomous CI/CD review agents and RAG-grounded LLM microservices in .NET.
+- 🤖 **AI Workflows & Engineering:** Certified by Google. Beyond using AI to accelerate daily workflows, I actively engineer autonomous CI/CD agents and RAG-grounded LLM microservices in .NET.
 - 📫 **Reach me:** [kacper.gumulak@gmail.com](mailto:kacper.gumulak@gmail.com) | [LinkedIn](https://linkedin.com/in/kacper-gumulak-dev)
 - ⚡ **Fun fact:** I love solving problems - both in code and while interacting with people. When I'm away from the keyboard, you can find me running, hitting the gym, exploring new tech trends, or practicing my Spanish!
 
@@ -58,6 +58,7 @@ A custom-built 2D physics billiards engine (480Hz collision resolver) and 1v1 on
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 
 #### 🗄️ Databases
@@ -75,7 +76,6 @@ A custom-built 2D physics billiards engine (480Hz collision resolver) and 1v1 on
 ![Linux Server](https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx_Reverse_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_Edge-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 #### 🤖 AI & Automation
