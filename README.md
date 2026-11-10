@@ -50,7 +50,7 @@ A custom-built 2D physics billiards engine (480Hz collision resolver) and 1v1 on
 ![SignalR](https://img.shields.io/badge/SignalR-316192?style=for-the-badge&logo=dotnet&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-#### 🌐 Frontend & Cartography
+#### 🌐 Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
